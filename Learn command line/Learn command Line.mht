@@ -1,0 +1,3107 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01D62EA0.09D509D0"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Windows® Internet Explorer®.
+
+------=_NextPart_01D62EA0.09D509D0
+Content-Location: file:///C:/4A77B225/LearncommandLine.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 15">
+<meta name=3DOriginator content=3D"Microsoft Word 15">
+<link rel=3DFile-List href=3D"LearncommandLine_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Harshit verma</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Harshit verma</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>2</o:TotalTime>
+  <o:LastPrinted>2020-04-27T21:07:00Z</o:LastPrinted>
+  <o:Created>2020-05-20T06:43:00Z</o:Created>
+  <o:LastSaved>2020-05-20T06:43:00Z</o:LastSaved>
+  <o:Pages>8</o:Pages>
+  <o:Words>1307</o:Words>
+  <o:Characters>7450</o:Characters>
+  <o:Lines>62</o:Lines>
+  <o:Paragraphs>17</o:Paragraphs>
+  <o:CharactersWithSpaces>8740</o:CharactersWithSpaces>
+  <o:Version>15.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=3DthemeData href=3D"LearncommandLine_files/themedata.thmx">
+<link rel=3DcolorSchemeMapping
+href=3D"LearncommandLine_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-IN</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val=3D"Cambria Math"/>
+   <m:brkBin m:val=3D"before"/>
+   <m:brkBinSub m:val=3D"&#45;-"/>
+   <m:smallFrac m:val=3D"off"/>
+   <m:dispDef/>
+   <m:lMargin m:val=3D"0"/>
+   <m:rMargin m:val=3D"0"/>
+   <m:defJc m:val=3D"centerGroup"/>
+   <m:wrapIndent m:val=3D"1440"/>
+   <m:intLim m:val=3D"subSup"/>
+   <m:naryLim m:val=3D"undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"false"
+  DefSemiHidden=3D"false" DefQFormat=3D"false" DefPriority=3D"99"
+  LatentStyleCount=3D"371">
+  <w:LsdException Locked=3D"false" Priority=3D"0" QFormat=3D"true" Name=3D"=
+Normal"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 9"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 9"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 9"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footnote text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"header"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footer"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index heading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"35" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"caption"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"table of figures"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"envelope address"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"envelope return"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footnote reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"line number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"page number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"endnote reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"endnote text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"table of authorities"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"macro"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"toa heading"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"10" QFormat=3D"true" Name=3D=
+"Title"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Closing"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Signature"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Default Paragraph Font"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Message Header"/>
+  <w:LsdException Locked=3D"false" Priority=3D"11" QFormat=3D"true" Name=3D=
+"Subtitle"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Salutation"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Date"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text First Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text First Indent 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Note Heading"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Block Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Hyperlink"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"FollowedHyperlink"/>
+  <w:LsdException Locked=3D"false" Priority=3D"22" QFormat=3D"true" Name=3D=
+"Strong"/>
+  <w:LsdException Locked=3D"false" Priority=3D"20" QFormat=3D"true" Name=3D=
+"Emphasis"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Document Map"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Plain Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"E-mail Signature"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Top of Form"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Bottom of Form"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal (Web)"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Acronym"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Address"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Cite"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Code"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Definition"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Keyboard"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Preformatted"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Sample"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Typewriter"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Variable"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal Table"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation subject"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"No List"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Contemporary"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Elegant"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Professional"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Subtle 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Subtle 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Balloon Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"Table Grid"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Theme"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" Name=3D"Placeholder =
+Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D"=
+No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" Name=3D"Revision"/>
+  <w:LsdException Locked=3D"false" Priority=3D"34" QFormat=3D"true"
+   Name=3D"List Paragraph"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=3D=
+"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"30" QFormat=3D"true"
+   Name=3D"Intense Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"19" QFormat=3D"true"
+   Name=3D"Subtle Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"21" QFormat=3D"true"
+   Name=3D"Intense Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"31" QFormat=3D"true"
+   Name=3D"Subtle Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"32" QFormat=3D"true"
+   Name=3D"Intense Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=3D=
+"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"37" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Bibliography"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"TOC Heading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"41" Name=3D"Plain Table 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"42" Name=3D"Plain Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"43" Name=3D"Plain Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"44" Name=3D"Plain Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"45" Name=3D"Plain Table 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"40" Name=3D"Grid Table Light=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46" Name=3D"Grid Table 1 Lig=
+ht"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51" Name=3D"Grid Table 6 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52" Name=3D"Grid Table 7 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46" Name=3D"List Table 1 Lig=
+ht"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51" Name=3D"List Table 6 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52" Name=3D"List Table 7 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 6"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073732485 9 0 511 0;}
+@font-face
+	{font-family:"Segoe UI";
+	panose-1:2 11 5 2 4 2 4 2 2 3;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1073683329 9 0 511 0;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-536869121 64767 1 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+h3
+	{mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 3 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	mso-outline-level:3;
+	font-size:13.5pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
+code
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	font-family:"Courier New";
+	mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-priority:9;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 3";
+	mso-ansi-font-size:13.5pt;
+	mso-bidi-font-size:13.5pt;
+	font-family:"Times New Roman",serif;
+	mso-ascii-font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	mso-fareast-language:EN-IN;
+	font-weight:bold;}
+p.p1qg33igem5pagn4kpmirjw, li.p1qg33igem5pagn4kpmirjw, div.p1qg33igem5pagn4=
+kpmirjw
+	{mso-style-name:p__1qg33igem5pagn4kpmirjw;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:268239096;
+	mso-list-template-ids:-1746486426;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1
+	{mso-list-id:325287309;
+	mso-list-template-ids:-1008807468;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-IN style=3D'tab-interval:36.0pt'>
+
+<div class=3DWordSection1>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt=
+:auto;
+text-align:justify;line-height:normal;mso-outline-level:3;background:white'=
+><b><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#19191A;mso-fareast-language:EN-IN'>Print Working
+Directory&nbsp;</span></b><span class=3DSpellE><b><span style=3D'font-size:=
+13.5pt;
+font-family:"Courier New";mso-fareast-font-family:"Times New Roman";color:#=
+19191A;
+mso-fareast-language:EN-IN'>pwd</span></b></span><b><span style=3D'font-siz=
+e:
+13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New=
+ Roman";
+color:#19191A;mso-fareast-language:EN-IN'><o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:white'><span style=3D'font-size:13.5p=
+t;
+font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#484848;mso-fareast-language:EN-IN'>The shell command&nbsp;</span><sp=
+an
+class=3DSpellE><span style=3D'font-size:10.0pt;font-family:Consolas;mso-far=
+east-font-family:
+"Times New Roman";mso-bidi-font-family:"Courier New";color:#15141F;backgrou=
+nd:
+#EAE9ED;mso-fareast-language:EN-IN'>pwd</span></span><span style=3D'font-si=
+ze:
+13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New=
+ Roman";
+color:#484848;mso-fareast-language:EN-IN'>&nbsp;displays the file path from=
+ the
+root directory to the current working directory.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:#0A0E1D'><span style=3D'font-size:13.=
+5pt;
+font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-fon=
+t-family:
+"Segoe UI";color:white;mso-fareast-language:EN-IN'>$ <span class=3DSpellE><=
+span
+class=3DGramE>pwd</span></span> /Users/sonny/Downloads<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt=
+:auto;
+text-align:justify;line-height:normal;mso-outline-level:3;background:white'=
+><b><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#19191A;mso-fareast-language:EN-IN'>Make
+Directory&nbsp;</span></b><span class=3DSpellE><b><span style=3D'font-size:=
+13.5pt;
+font-family:"Courier New";mso-fareast-font-family:"Times New Roman";color:#=
+19191A;
+mso-fareast-language:EN-IN'>mkdir</span></b></span><b><span style=3D'font-s=
+ize:
+13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New=
+ Roman";
+color:#19191A;mso-fareast-language:EN-IN'><o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:white'><span style=3D'font-size:13.5p=
+t;
+font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#484848;mso-fareast-language:EN-IN'>The shell command&nbsp;</span><sp=
+an
+class=3DSpellE><span style=3D'font-size:10.0pt;font-family:Consolas;mso-far=
+east-font-family:
+"Times New Roman";mso-bidi-font-family:"Courier New";color:#15141F;backgrou=
+nd:
+#EAE9ED;mso-fareast-language:EN-IN'>mkdir</span></span><span style=3D'font-=
+size:
+13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New=
+ Roman";
+color:#484848;mso-fareast-language:EN-IN'>&nbsp;can be used to make a new
+directory in the filesystem according to its argument. If a file path is gi=
+ven,
+the new directory will be placed at the end. Otherwise, it will create a new
+directory in the current working directory with the name given.<o:p></o:p><=
+/span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:#0A0E1D'><span style=3D'font-size:13.=
+5pt;
+font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-fon=
+t-family:
+"Segoe UI";color:white;mso-fareast-language:EN-IN'>$ <span class=3DSpellE><=
+span
+class=3DGramE>mkdir</span></span> new-directory <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:#0A0E1D'><span style=3D'font-size:13.=
+5pt;
+font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-fon=
+t-family:
+"Segoe UI";color:white;mso-fareast-language:EN-IN'>$ <span class=3DGramE>ls=
+</span>
+old-directory new-directory<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt=
+:auto;
+text-align:justify;line-height:normal;mso-outline-level:3;background:white'=
+><b><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#19191A;mso-fareast-language:EN-IN'>List&nbsp;</spa=
+n></b><b><span
+style=3D'font-size:13.5pt;font-family:"Courier New";mso-fareast-font-family=
+:"Times New Roman";
+color:#19191A;mso-fareast-language:EN-IN'>ls</span></b><b><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#19191A;mso-fareast-language:EN-IN'><o:p></o:p></sp=
+an></b></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:white'><span style=3D'font-size:13.5p=
+t;
+font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#484848;mso-fareast-language:EN-IN'>The shell command&nbsp;</span><sp=
+an
+style=3D'font-size:10.0pt;font-family:Consolas;mso-fareast-font-family:"Tim=
+es New Roman";
+mso-bidi-font-family:"Courier New";color:#15141F;background:#EAE9ED;mso-far=
+east-language:
+EN-IN'>ls</span><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sans=
+-serif;
+mso-fareast-font-family:"Times New Roman";color:#484848;mso-fareast-languag=
+e:
+EN-IN'>&nbsp;is used to list the contents of directories. If no arguments a=
+re
+given, it will list the contents of the current working directory.<o:p></o:=
+p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:#0A0E1D'><span style=3D'font-size:13.=
+5pt;
+font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-fon=
+t-family:
+"Segoe UI";color:white;mso-fareast-language:EN-IN'>$ <span class=3DGramE>ls=
+</span>
+Desktop resume.pdf photo.png<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt=
+:auto;
+text-align:justify;line-height:normal;mso-outline-level:3;background:white'=
+><span
+class=3DGramE><b><span style=3D'font-size:13.5pt;font-family:"Courier New";
+mso-fareast-font-family:"Times New Roman";color:#19191A;mso-fareast-languag=
+e:
+EN-IN'>cd</span></b></span><b><span style=3D'font-size:13.5pt;font-family:"=
+Segoe UI",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#19191A;mso-fareast-languag=
+e:
+EN-IN'>&nbsp;Change Directory<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-bottom-alt:auto;text-align:justify;
+line-height:normal;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#4848=
+48;
+mso-fareast-language:EN-IN'>The shell command&nbsp;</span><span
+style=3D'font-size:10.0pt;font-family:Consolas;mso-fareast-font-family:"Tim=
+es New Roman";
+mso-bidi-font-family:"Courier New";color:#15141F;background:#EAE9ED;mso-far=
+east-language:
+EN-IN'>cd</span><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sans=
+-serif;
+mso-fareast-font-family:"Times New Roman";color:#484848;mso-fareast-languag=
+e:
+EN-IN'>&nbsp;can be used to move throughout the filesystem of a computer. It
+accepts a variety of arguments:<o:p></o:p></span></p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'color:#484848;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;line-height:normal;mso-list:l1 level1 lfo1;
+     tab-stops:list 36.0pt;background:white'><span style=3D'font-size:13.5p=
+t;
+     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New R=
+oman";
+     mso-fareast-language:EN-IN'>Full file paths.<o:p></o:p></span></li>
+ <li class=3DMsoNormal style=3D'color:#484848;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;line-height:normal;mso-list:l1 level1 lfo1;
+     tab-stops:list 36.0pt;background:white'><span style=3D'font-size:13.5p=
+t;
+     font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New R=
+oman";
+     mso-fareast-language:EN-IN'>Names of children of the current directory=
+.<o:p></o:p></span></li>
+ <li class=3DMsoNormal style=3D'color:#484848;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;line-height:normal;mso-list:l1 level1 lfo1;
+     tab-stops:list 36.0pt;background:white'><span style=3D'font-size:10.0p=
+t;
+     font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bid=
+i-font-family:
+     "Courier New";color:#15141F;background:#EAE9ED;mso-fareast-language:EN=
+-IN'>..</span><span
+     style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman";mso-fareast-language:EN-IN'>&nbsp;<span class=3DGram=
+E>the</span>
+     parent of the current directory.<o:p></o:p></span></li>
+</ul>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:#0A0E1D'><span style=3D'font-size:13.=
+5pt;
+font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-fon=
+t-family:
+"Segoe UI";color:white;mso-fareast-language:EN-IN'>$ <span class=3DGramE>cd=
+</span>
+some-directory<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:#0A0E1D'><span style=3D'font-size:13.=
+5pt;
+font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-fon=
+t-family:
+"Segoe UI";color:white;mso-fareast-language:EN-IN'>$ <span class=3DGramE>cd=
+ ..</span><o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt=
+:auto;
+text-align:justify;line-height:normal;mso-outline-level:3;background:white'=
+><b><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#19191A;mso-fareast-language:EN-IN'>Filesystem
+Structure<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-bottom-alt:auto;text-align:justify;
+line-height:normal;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#4848=
+48;
+mso-fareast-language:EN-IN'>A computer’s filesystem organizes the data stor=
+ed
+by a computer, so that it can be easily retrieved by the user. Files are
+typically represented by a tree-like structure, in which any parent directo=
+ry
+can have any number of children. The&nbsp;<i>root directory</i>&nbsp;is then
+found at the base of the tree.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-bottom-alt:auto;text-align:justify;
+line-height:normal;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#4848=
+48;
+mso-fareast-language:EN-IN'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-bottom-alt:auto;text-align:justify;
+line-height:normal;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#4848=
+48;
+mso-fareast-language:EN-IN'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt=
+:auto;
+text-align:justify;line-height:normal;mso-outline-level:3;background:white'=
+><span
+class=3DGramE><b><span style=3D'font-size:13.5pt;font-family:"Courier New";
+mso-fareast-font-family:"Times New Roman";color:#19191A;mso-fareast-languag=
+e:
+EN-IN'>touch</span></b></span><b><span style=3D'font-size:13.5pt;font-famil=
+y:
+"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#1919=
+1A;
+mso-fareast-language:EN-IN'>&nbsp;Create New File<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:white'><span style=3D'font-size:13.5p=
+t;
+font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#484848;mso-fareast-language:EN-IN'>The shell command&nbsp;</span><sp=
+an
+style=3D'font-size:10.0pt;font-family:Consolas;mso-fareast-font-family:"Tim=
+es New Roman";
+mso-bidi-font-family:"Courier New";color:#15141F;background:#EAE9ED;mso-far=
+east-language:
+EN-IN'>touch</span><span style=3D'font-size:13.5pt;font-family:"Segoe UI",s=
+ans-serif;
+mso-fareast-font-family:"Times New Roman";color:#484848;mso-fareast-languag=
+e:
+EN-IN'>&nbsp;creates a new file in the current working directory with the n=
+ame
+provided.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:#0A0E1D'><span style=3D'font-size:13.=
+5pt;
+font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-fon=
+t-family:
+"Segoe UI";color:white;mso-fareast-language:EN-IN'>$ touch secret-file.txt<=
+o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt=
+:auto;
+text-align:justify;line-height:normal;mso-outline-level:3;background:white'=
+><b><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#19191A;mso-fareast-language:EN-IN'>The Command Lin=
+e<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:white'><span style=3D'font-size:13.5p=
+t;
+font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#484848;mso-fareast-language:EN-IN'>The&nbsp;<i>command line</i>&nbsp=
+;allows
+a user to navigate the filesystem and run built-in programs or custom scrip=
+ts.
+In <span class=3DGramE>Unix</span>, the command line interface is called Ba=
+sh,
+and the shell prompt is the&nbsp;</span><span style=3D'font-size:10.0pt;
+font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-fon=
+t-family:
+"Courier New";color:#15141F;background:#EAE9ED;mso-fareast-language:EN-IN'>=
+$</span><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#484848;mso-fareast-language:EN-IN'>.<o:p></o:p></s=
+pan></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:#0A0E1D'><span style=3D'font-size:13.=
+5pt;
+font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-fon=
+t-family:
+"Segoe UI";color:white;mso-fareast-language:EN-IN'>$ <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt=
+:auto;
+text-align:justify;line-height:normal;mso-outline-level:3;background:white'=
+><span
+class=3DSpellE><span class=3DGramE><b><span style=3D'font-size:13.5pt;font-=
+family:
+"Courier New";mso-fareast-font-family:"Times New Roman";color:#19191A;
+mso-fareast-language:EN-IN'>cp</span></b></span></span><b><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#19191A;mso-fareast-language:EN-IN'>&nbsp;Copy<o:p>=
+</o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-bottom-alt:auto;text-align:justify;
+line-height:normal;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#4848=
+48;
+mso-fareast-language:EN-IN'>The shell command&nbsp;</span><span class=3DSpe=
+llE><span
+style=3D'font-size:10.0pt;font-family:Consolas;mso-fareast-font-family:"Tim=
+es New Roman";
+mso-bidi-font-family:"Courier New";color:#15141F;background:#EAE9ED;mso-far=
+east-language:
+EN-IN'>cp</span></span><span style=3D'font-size:13.5pt;font-family:"Segoe U=
+I",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#484848;mso-fareast-languag=
+e:
+EN-IN'>&nbsp;is used to copy files or directories.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:white'><span style=3D'font-size:13.5p=
+t;
+font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#484848;mso-fareast-language:EN-IN'>The basic argument structure is&n=
+bsp;</span><span
+class=3DSpellE><span style=3D'font-size:10.0pt;font-family:Consolas;mso-far=
+east-font-family:
+"Times New Roman";mso-bidi-font-family:"Courier New";color:#15141F;backgrou=
+nd:
+#EAE9ED;mso-fareast-language:EN-IN'>cp</span></span><span style=3D'font-siz=
+e:
+10.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Courier New";color:#15141F;background:#EAE9ED;mso-far=
+east-language:
+EN-IN'> source destination</span><span style=3D'font-size:13.5pt;font-famil=
+y:
+"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#4848=
+48;
+mso-fareast-language:EN-IN'>, where the&nbsp;</span><span style=3D'font-siz=
+e:
+10.0pt;font-family:Consolas;mso-fareast-font-family:"Times New Roman";
+mso-bidi-font-family:"Courier New";color:#15141F;background:#EAE9ED;mso-far=
+east-language:
+EN-IN'>source</span><span style=3D'font-size:13.5pt;font-family:"Segoe UI",=
+sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#484848;mso-fareast-languag=
+e:
+EN-IN'>&nbsp;is the file/directory to copy to the&nbsp;</span><span
+style=3D'font-size:10.0pt;font-family:Consolas;mso-fareast-font-family:"Tim=
+es New Roman";
+mso-bidi-font-family:"Courier New";color:#15141F;background:#EAE9ED;mso-far=
+east-language:
+EN-IN'>destination</span><span style=3D'font-size:13.5pt;font-family:"Segoe=
+ UI",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#484848;mso-fareast-languag=
+e:
+EN-IN'>&nbsp;file/directory.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:#0A0E1D'><span style=3D'font-size:13.=
+5pt;
+font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-fon=
+t-family:
+"Segoe UI";color:white;mso-fareast-language:EN-IN'>$ <span class=3DSpellE><=
+span
+class=3DGramE>cp</span></span> file1 file1_copy <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:#0A0E1D'><span style=3D'font-size:13.=
+5pt;
+font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-fon=
+t-family:
+"Segoe UI";color:white;mso-fareast-language:EN-IN'>$ <span class=3DSpellE><=
+span
+class=3DGramE>cp</span></span> file1 file2 <span class=3DSpellE>destination=
+_folder</span><o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt=
+:auto;
+text-align:justify;line-height:normal;mso-outline-level:3;background:white'=
+><b><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#19191A;mso-fareast-language:EN-IN'>Command Options=
+<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:white'><i><span style=3D'font-size:13=
+.5pt;
+font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#484848;mso-fareast-language:EN-IN'>Options</span></i><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#484848;mso-fareast-language:EN-IN'>&nbsp;can be us=
+ed
+to modify the <span class=3DSpellE>behavior</span> of shell commands. Shell
+command&nbsp;<i>options</i>&nbsp;are commonly represented by a single letter
+preceded by a&nbsp;</span><span style=3D'font-size:10.0pt;font-family:Conso=
+las;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New=
+";
+color:#15141F;background:#EAE9ED;mso-fareast-language:EN-IN'>-</span><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#484848;mso-fareast-language:EN-IN'>. For
+example,&nbsp;</span><span style=3D'font-size:10.0pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New=
+";
+color:#15141F;background:#EAE9ED;mso-fareast-language:EN-IN'>-l</span><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#484848;mso-fareast-language:EN-IN'>,&nbsp;</span><=
+span
+style=3D'font-size:10.0pt;font-family:Consolas;mso-fareast-font-family:"Tim=
+es New Roman";
+mso-bidi-font-family:"Courier New";color:#15141F;background:#EAE9ED;mso-far=
+east-language:
+EN-IN'>-a</span><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sans=
+-serif;
+mso-fareast-font-family:"Times New Roman";color:#484848;mso-fareast-languag=
+e:
+EN-IN'>, and&nbsp;</span><span style=3D'font-size:10.0pt;font-family:Consol=
+as;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New=
+";
+color:#15141F;background:#EAE9ED;mso-fareast-language:EN-IN'>-d</span><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#484848;mso-fareast-language:EN-IN'>&nbsp;could all=
+ be
+options that follow a shell command.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt=
+:auto;
+text-align:justify;line-height:normal;mso-outline-level:3;background:white'=
+><span
+class=3DGramE><b><span style=3D'font-size:13.5pt;font-family:"Courier New";
+mso-fareast-font-family:"Times New Roman";color:#19191A;mso-fareast-languag=
+e:
+EN-IN'>mv</span></b></span><b><span style=3D'font-size:13.5pt;font-family:"=
+Segoe UI",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#19191A;mso-fareast-languag=
+e:
+EN-IN'>&nbsp;Move<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:white'><span style=3D'font-size:13.5p=
+t;
+font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#484848;mso-fareast-language:EN-IN'>The shell command&nbsp;</span><sp=
+an
+style=3D'font-size:10.0pt;font-family:Consolas;mso-fareast-font-family:"Tim=
+es New Roman";
+mso-bidi-font-family:"Courier New";color:#15141F;background:#EAE9ED;mso-far=
+east-language:
+EN-IN'>mv</span><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sans=
+-serif;
+mso-fareast-font-family:"Times New Roman";color:#484848;mso-fareast-languag=
+e:
+EN-IN'>&nbsp;is used to move a file into a directory. Use&nbsp;</span><span
+style=3D'font-size:10.0pt;font-family:Consolas;mso-fareast-font-family:"Tim=
+es New Roman";
+mso-bidi-font-family:"Courier New";color:#15141F;background:#EAE9ED;mso-far=
+east-language:
+EN-IN'>mv</span><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sans=
+-serif;
+mso-fareast-font-family:"Times New Roman";color:#484848;mso-fareast-languag=
+e:
+EN-IN'>&nbsp;with the source file as the first argument and the destination
+directory as the second argument.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:#0A0E1D'><span style=3D'font-size:13.=
+5pt;
+font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-fon=
+t-family:
+"Segoe UI";color:white;mso-fareast-language:EN-IN'>$ <span class=3DGramE>mv=
+</span>
+index.html website/<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:#0A0E1D'><span style=3D'font-size:13.=
+5pt;
+font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-fon=
+t-family:
+"Segoe UI";color:white;mso-fareast-language:EN-IN'><o:p>&nbsp;</o:p></span>=
+</p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:white'><span style=3D'font-size:13.5p=
+t;
+font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#484848;mso-fareast-language:EN-IN'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:white'><span style=3D'font-size:13.5p=
+t;
+font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#484848;mso-fareast-language:EN-IN'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:white'><span style=3D'font-size:13.5p=
+t;
+font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#484848;mso-fareast-language:EN-IN'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt=
+:auto;
+text-align:justify;line-height:normal;mso-outline-level:3;background:white'=
+><span
+class=3DSpellE><span class=3DGramE><b><span style=3D'font-size:13.5pt;font-=
+family:
+"Courier New";mso-fareast-font-family:"Times New Roman";color:#19191A;
+mso-fareast-language:EN-IN'>rm</span></b></span></span><b><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#19191A;mso-fareast-language:EN-IN'>&nbsp;Remove<o:=
+p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:white'><span style=3D'font-size:13.5p=
+t;
+font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#484848;mso-fareast-language:EN-IN'>The shell command&nbsp;</span><sp=
+an
+class=3DSpellE><span style=3D'font-size:10.0pt;font-family:Consolas;mso-far=
+east-font-family:
+"Times New Roman";mso-bidi-font-family:"Courier New";color:#15141F;backgrou=
+nd:
+#EAE9ED;mso-fareast-language:EN-IN'>rm</span></span><span style=3D'font-siz=
+e:
+13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-font-family:"Times New=
+ Roman";
+color:#484848;mso-fareast-language:EN-IN'>&nbsp;is used to delete files and
+directories. The&nbsp;</span><span style=3D'font-size:10.0pt;font-family:Co=
+nsolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New=
+";
+color:#15141F;background:#EAE9ED;mso-fareast-language:EN-IN'>-r</span><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#484848;mso-fareast-language:EN-IN'>&nbsp;flag dele=
+tes
+a directory and all of its files and directories (</span><span class=3DSpel=
+lE><span
+style=3D'font-size:10.0pt;font-family:Consolas;mso-fareast-font-family:"Tim=
+es New Roman";
+mso-bidi-font-family:"Courier New";color:#15141F;background:#EAE9ED;mso-far=
+east-language:
+EN-IN'>rm</span></span><span style=3D'font-size:10.0pt;font-family:Consolas;
+mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Courier New=
+";
+color:#15141F;background:#EAE9ED;mso-fareast-language:EN-IN'> -r</span><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareast-fon=
+t-family:
+"Times New Roman";color:#484848;mso-fareast-language:EN-IN'>).<o:p></o:p></=
+span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:#0A0E1D'><span style=3D'font-size:13.=
+5pt;
+font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-fon=
+t-family:
+"Segoe UI";color:white;mso-fareast-language:EN-IN'>$ <span class=3DSpellE><=
+span
+class=3DGramE>rm</span></span> -r <span class=3DSpellE>bad_selfies</span><o=
+:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt=
+:auto;
+text-align:justify;line-height:normal;mso-outline-level:3;background:white'=
+><span
+class=3DGramE><b><span style=3D'font-size:13.5pt;font-family:"Courier New";
+mso-fareast-font-family:"Times New Roman";color:#19191A;mso-fareast-languag=
+e:
+EN-IN'>ls</span></b></span><b><span style=3D'font-size:13.5pt;font-family:"=
+Segoe UI",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#19191A;mso-fareast-languag=
+e:
+EN-IN'>&nbsp;List Command Options<o:p></o:p></span></b></p>
+
+<p class=3DMsoNormal style=3D'mso-margin-bottom-alt:auto;text-align:justify;
+line-height:normal;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;mso-fareast-font-family:"Times New Roman";color:#4848=
+48;
+mso-fareast-language:EN-IN'>The shell command&nbsp;</span><span
+style=3D'font-size:10.0pt;font-family:Consolas;mso-fareast-font-family:"Tim=
+es New Roman";
+mso-bidi-font-family:"Courier New";color:#15141F;background:#EAE9ED;mso-far=
+east-language:
+EN-IN'>ls</span><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sans=
+-serif;
+mso-fareast-font-family:"Times New Roman";color:#484848;mso-fareast-languag=
+e:
+EN-IN'>&nbsp;is used to list the contents in a directory. It can be combined
+with the following command options:<o:p></o:p></span></p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'color:#484848;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;line-height:normal;mso-list:l0 level1 lfo2;
+     tab-stops:list 36.0pt;background:white'><span style=3D'font-size:10.0p=
+t;
+     font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bid=
+i-font-family:
+     "Courier New";color:#15141F;background:#EAE9ED;mso-fareast-language:EN=
+-IN'>-a</span><span
+     style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman";mso-fareast-language:EN-IN'>: lists all contents,
+     including hidden files and directories.<o:p></o:p></span></li>
+ <li class=3DMsoNormal style=3D'color:#484848;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;line-height:normal;mso-list:l0 level1 lfo2;
+     tab-stops:list 36.0pt;background:white'><span style=3D'font-size:10.0p=
+t;
+     font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bid=
+i-font-family:
+     "Courier New";color:#15141F;background:#EAE9ED;mso-fareast-language:EN=
+-IN'>-l</span><span
+     style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman";mso-fareast-language:EN-IN'>: lists all contents, in
+     long format.<o:p></o:p></span></li>
+ <li class=3DMsoNormal style=3D'color:#484848;mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:
+     auto;text-align:justify;line-height:normal;mso-list:l0 level1 lfo2;
+     tab-stops:list 36.0pt;background:white'><span style=3D'font-size:10.0p=
+t;
+     font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bid=
+i-font-family:
+     "Courier New";color:#15141F;background:#EAE9ED;mso-fareast-language:EN=
+-IN'>-t</span><span
+     style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;mso-fareas=
+t-font-family:
+     "Times New Roman";mso-fareast-language:EN-IN'>: lists all contents, by=
+ the
+     time they were last modified.<o:p></o:p></span></li>
+</ul>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:#0A0E1D'><span style=3D'font-size:13.=
+5pt;
+font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-fon=
+t-family:
+"Segoe UI";color:white;mso-fareast-language:EN-IN'>$ <span class=3DGramE>ls=
+</span>
+-a <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:#0A0E1D'><span style=3D'font-size:13.=
+5pt;
+font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-fon=
+t-family:
+"Segoe UI";color:white;mso-fareast-language:EN-IN'>$ <span class=3DGramE>ls=
+</span>
+-l <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;line-height:normal;background:#0A0E1D'><span style=3D'font-size:13.=
+5pt;
+font-family:Consolas;mso-fareast-font-family:"Times New Roman";mso-bidi-fon=
+t-family:
+"Segoe UI";color:white;mso-fareast-language:EN-IN'>$ <span class=3DGramE>ls=
+</span>
+-t<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<h3 style=3D'text-align:justify;background:white'><span style=3D'font-famil=
+y:"Segoe UI",sans-serif;
+color:#19191A'>Append Redirect shell command<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'>The&nbsp;</span><code><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>&gt;&gt;</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;shell
+command is used to redirect the standard output of the command on the left =
+and
+append (add) it to the end of the file on the right.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify;background:#0A0E1D'><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'># <span class=3DGramE>This</span> command will appe=
+nd
+&quot;Hello World!&quot; to greetings.txt echo &quot;Hello World!&quot;
+&gt;&gt; greetings.txt<o:p></o:p></span></p>
+
+<h3 style=3D'text-align:justify;background:white'><span style=3D'font-famil=
+y:"Segoe UI",sans-serif;
+color:#19191A'>Pipe shell command<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'>The&nbsp;</span><code><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>|</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;command
+is called a&nbsp;<em><span style=3D'font-family:"Segoe UI",sans-serif'>pipe=
+</span></em>.
+It is used to&nbsp;<em><span style=3D'font-family:"Segoe UI",sans-serif'>pi=
+pe</span></em>,
+or transfer, the standard output from the command on its left into the <span
+class=3DSpellE>the</span> standard input of the command on its right.<o:p><=
+/o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify;background:#0A0E1D'><span
+style=3D'font-size:9.0pt;line-height:107%;font-family:Consolas;mso-bidi-fon=
+t-family:
+"Segoe UI";color:white'># First, echo &quot;Hello World&quot; will send Hel=
+lo
+World to the standard output. <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify;background:#0A0E1D'><span
+style=3D'font-size:9.0pt;line-height:107%;font-family:Consolas;mso-bidi-fon=
+t-family:
+"Segoe UI";color:white'># Next, pipe | will transfer the standard output to=
+ the
+next command's standard input. <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify;background:#0A0E1D'><span
+style=3D'font-size:9.0pt;line-height:107%;font-family:Consolas;mso-bidi-fon=
+t-family:
+"Segoe UI";color:white'># <span class=3DGramE>Finally</span>, <span class=
+=3DSpellE>wc</span>
+-w will count the number of words from its standard input, which is 2. <span
+class=3DGramE>echo</span> &quot;Hello World&quot; | <span class=3DSpellE>wc=
+</span>
+-w<o:p></o:p></span></p>
+
+<h3 style=3D'text-align:justify;background:white'><span style=3D'font-famil=
+y:"Segoe UI",sans-serif;
+color:#19191A'>Redirecting Output<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'>The&nbsp;</span><code><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>&gt;</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;symbol
+is used to redirect output by taking the output from the command on the left
+and passing as input to the file on the right.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify;background:#0A0E1D'><span
+class=3DGramE><span style=3D'font-size:13.5pt;line-height:107%;font-family:=
+Consolas;
+mso-bidi-font-family:"Segoe UI";color:white'>echo</span></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'> &quot;Hello&quot; &gt; hello.txt<o:p></o:p></span>=
+</p>
+
+<h3 style=3D'text-align:justify;background:white'><span class=3DGramE><code=
+><span
+style=3D'font-size:10.0pt;color:#19191A'>cat</span></code></span><span
+style=3D'font-family:"Segoe UI",sans-serif;color:#19191A'>&nbsp;Display<o:p=
+></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'>The shell command&nbsp;</span><code><s=
+pan
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>cat</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;displays
+the contents of one or more files to the terminal.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify;background:#0A0E1D'><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'>$ <span class=3DGramE>cat</span> poem.txt <o:p></o:=
+p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify;background:#0A0E1D'><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'>$ <span class=3DGramE>cat</span> poem.txt kitties.t=
+xt<o:p></o:p></span></p>
+
+<h3 style=3D'text-align:justify;background:white'><span class=3DGramE><code=
+><span
+style=3D'font-size:10.0pt;color:#19191A'>grep</span></code></span><span
+style=3D'font-family:"Segoe UI",sans-serif;color:#19191A'>&nbsp;Search<o:p>=
+</o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin-top:0cm;text-align:justi=
+fy;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'>The shell command&nbsp;</span><code><span style=3D'font-size=
+:10.0pt;
+font-family:Consolas;color:#15141F;background:#EAE9ED'>grep</span></code><s=
+pan
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;is
+used to search files for lines that match a pattern and returns the results.
+Various options can be specified along with the&nbsp;</span><code><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>grep</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;command
+to specify the search.<o:p></o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'>In the provided example, the lines in =
+the
+file&nbsp;<strong><span style=3D'font-family:"Segoe UI",sans-serif'>names.t=
+xt</span></strong>&nbsp;which
+contain “sonny” will be returned.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify;background:#0A0E1D'><span
+class=3DGramE><span style=3D'font-size:13.5pt;line-height:107%;font-family:=
+Consolas;
+mso-bidi-font-family:"Segoe UI";color:white'>grep</span></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'> 'sonny' names.txt<o:p></o:p></span></p>
+
+<h3 style=3D'text-align:justify;background:white'><span style=3D'font-famil=
+y:"Segoe UI",sans-serif;
+color:#19191A'>Case insensitive search<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'>The shell&nbsp;</span><code><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>grep</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;command
+searches files for a particular pattern. The&nbsp;</span><code><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>grep</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;command
+with the&nbsp;</span><code><span style=3D'font-size:10.0pt;font-family:Cons=
+olas;
+color:#15141F;background:#EAE9ED'>-<span class=3DSpellE>i</span></span></co=
+de><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;option
+can be used to search files for lines that match a pattern, case insensitiv=
+e,
+and returns the results.<o:p></o:p></span></p>
+
+<h3 style=3D'text-align:justify;background:white'><span class=3DGramE><span
+style=3D'font-family:"Segoe UI",sans-serif;color:#19191A'>grep</span></span=
+><span
+style=3D'font-family:"Segoe UI",sans-serif;color:#19191A'> -R shell command=
+<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'>The shell command&nbsp;</span><code><s=
+pan
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>grep</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;has
+a&nbsp;</span><code><span style=3D'font-size:10.0pt;font-family:Consolas;
+color:#15141F;background:#EAE9ED'>-R</span></code><span style=3D'font-size:=
+13.5pt;
+font-family:"Segoe UI",sans-serif;color:#484848'>&nbsp;option (</span><code=
+><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>grep
+-R</span></code><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sans=
+-serif;
+color:#484848'>) that searches all files in a directory, including its
+subdirectories, and outputs filenames and lines containing matched results.=
+<o:p></o:p></span></p>
+
+<h3 style=3D'text-align:justify;background:white'><span style=3D'font-famil=
+y:"Segoe UI",sans-serif;
+color:#19191A'>Command Line Redirection<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin-top:0cm;text-align:justi=
+fy;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'>On a command line,&nbsp;</span><code><span style=3D'font-siz=
+e:
+10.0pt;font-family:Consolas;color:#15141F;background:#EAE9ED'>redirection</=
+span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;is
+the process of using the input/output of a file or command to use it as an
+input for another file. It is similar but different from pipes, as it allows
+reading/writing from files instead of only commands.<o:p></o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'>Redirection can be done by using the
+operators&nbsp;</span><code><span style=3D'font-size:10.0pt;font-family:Con=
+solas;
+color:#15141F;background:#EAE9ED'>&gt;</span></code><span style=3D'font-siz=
+e:
+13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>&nbsp;and&nbsp;</sp=
+an><code><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>&gt;&gt;</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify;background:#0A0E1D'><span
+class=3DGramE><span style=3D'font-size:13.5pt;line-height:107%;font-family:=
+Consolas;
+mso-bidi-font-family:"Segoe UI";color:white'>ls</span></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'> &gt; directories_list.txt <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify;background:#0A0E1D'><span
+class=3DGramE><span style=3D'font-size:13.5pt;line-height:107%;font-family:=
+Consolas;
+mso-bidi-font-family:"Segoe UI";color:white'>ls</span></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'> &gt;&gt; directories_list.txt<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<h3 style=3D'text-align:justify;background:white'><span style=3D'font-famil=
+y:"Segoe UI",sans-serif;
+color:#19191A'>Command line environment<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'>The&nbsp;<em><span style=3D'font-famil=
+y:
+"Segoe UI",sans-serif'>environment</span></em>&nbsp;of the command line ref=
+ers
+to the settings and preferences of the current user. It enables users to set
+greetings,&nbsp;</span><code><span style=3D'font-size:10.0pt;font-family:Co=
+nsolas;
+color:#15141F;background:#EAE9ED'>alias</span></code><span style=3D'font-si=
+ze:
+13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>&nbsp;commands,
+variables, and much more.<o:p></o:p></span></p>
+
+<h3 style=3D'text-align:justify;background:white'><span style=3D'font-famil=
+y:"Segoe UI",sans-serif;
+color:#19191A'>Shell Command <span class=3DSpellE>env</span><o:p></o:p></sp=
+an></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'>For Unix-based systems like Mac OS and
+Linux (not Windows), the shell command&nbsp;</span><span class=3DSpellE><co=
+de><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>env</span></code></span><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;returns
+a list of environment variables for the current user.<o:p></o:p></span></p>
+
+<h3 style=3D'text-align:justify;background:white'><span style=3D'font-famil=
+y:"Segoe UI",sans-serif;
+color:#19191A'>Alias<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'>The shell command&nbsp;</span><code><s=
+pan
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>alias</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;is
+used to assign commonly used commands to shortcuts (or aliases). The assign=
+ed
+commonly used command should be wrapped in double quotes.<o:p></o:p></span>=
+</p>
+
+<p class=3DMsoNormal style=3D'text-align:justify;background:#0A0E1D'><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'># <span class=3DGramE>The</span> following command
+creates an alias `<span class=3DSpellE>pd</span>` for the command `<span
+class=3DSpellE>pwd</span>` <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify;background:#0A0E1D'><span
+class=3DGramE><span style=3D'font-size:13.5pt;line-height:107%;font-family:=
+Consolas;
+mso-bidi-font-family:"Segoe UI";color:white'>alias</span></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'> <span class=3DSpellE>pd</span>=3D&quot;<span class=
+=3DSpellE>pwd</span>&quot;<o:p></o:p></span></p>
+
+<h3 style=3D'text-align:justify;background:white'><span style=3D'font-famil=
+y:"Segoe UI",sans-serif;
+color:#19191A'>Environment Variables<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'>Variables that can be used across term=
+inal
+commands are called&nbsp;<em><span style=3D'font-family:"Segoe UI",sans-ser=
+if'>environment
+variables</span></em>. They also hold information about the shell’s environ=
+ment.<o:p></o:p></span></p>
+
+<h3 style=3D'text-align:justify;background:white'><span style=3D'font-famil=
+y:"Segoe UI",sans-serif;
+color:#19191A'>Source Bash Profile<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'>All the commands in&nbsp;<strong><span
+style=3D'font-family:"Segoe UI",sans-serif'>~/.<span class=3DSpellE>bash_pr=
+ofile</span></span></strong>&nbsp;are
+executed with the shell command&nbsp;</span><code><span style=3D'font-size:=
+10.0pt;
+font-family:Consolas;color:#15141F;background:#EAE9ED'>source ~/.<span
+class=3DSpellE>bash_profile</span></span></code><span style=3D'font-size:13=
+.5pt;
+font-family:"Segoe UI",sans-serif;color:#484848'>. So when changes are made
+to&nbsp;<strong><span style=3D'font-family:"Segoe UI",sans-serif'>~/.<span
+class=3DSpellE>bash_profile</span></span></strong>, run this command to act=
+ivate
+the changes in the current session.<o:p></o:p></span></p>
+
+<h3 style=3D'text-align:justify;background:white'><span class=3DGramE><code=
+><span
+style=3D'font-size:10.0pt;color:#19191A'>history</span></code></span><span
+style=3D'font-family:"Segoe UI",sans-serif;color:#19191A'>&nbsp;command in =
+Unix
+Systems<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'>The&nbsp;</span><code><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>history</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;shell
+command is used to get a history of commands (also known as “events”) that =
+were
+executed in the current session. The command also allows us to perform
+operations on this list of commands that have been executed, such as select=
+ing
+or manipulating a command in the history.<o:p></o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'><o:p>&nbsp;</o:p></span></p>
+
+<h3 style=3D'text-align:justify;background:white'><span style=3D'font-famil=
+y:"Segoe UI",sans-serif;
+color:#19191A'>Export command<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'>The&nbsp;</span><code><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>export</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;command
+makes a given variable available to all child sessions initiated from the
+current session.<o:p></o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><span style=3D'font-size:13.5pt;font-f=
+amily:
+"Segoe UI",sans-serif;color:#484848'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;background:#0A0E1D'><span style=3D'font-size:12.0pt;line-height:107=
+%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'># <span
+class=3DGramE>This</span> command will make the environment variable USER
+available <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;background:#0A0E1D'><span style=3D'font-size:12.0pt;line-height:107=
+%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'># <span
+class=3DGramE>to</span> all child sessions with the value &quot;Jane Doe&qu=
+ot;. <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;text-=
+align:
+justify;background:#0A0E1D'><span class=3DGramE><span style=3D'font-size:12=
+.0pt;
+line-height:107%;font-family:Consolas;mso-bidi-font-family:"Segoe UI";
+color:white'>export</span></span><span style=3D'font-size:12.0pt;line-heigh=
+t:
+107%;font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'>
+USER=3D&quot;Jane Doe&quot;<o:p></o:p></span></p>
+
+<h3 style=3D'text-align:justify;background:white'><code><span style=3D'font=
+-size:
+10.0pt;color:#19191A'>HOME</span></code><span style=3D'font-family:"Segoe U=
+I",sans-serif;
+color:#19191A'>&nbsp;Environment Variable in <span class=3DGramE>Unix</span>
+Systems<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+text-align:justify;background:white'><code><span style=3D'font-size:10.0pt;
+font-family:Consolas;color:#15141F;background:#EAE9ED'>HOME</span></code><s=
+pan
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;is
+an environment variable present in command line environments. It is used to=
+ get
+the path to the current user’s home directory. This makes it easy for progr=
+ams
+to access the home directory when needed.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify;background:#0A0E1D'><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'># <span class=3DGramE>To</span> show the path of th=
+e home
+directory use the following command: <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify;background:#0A0E1D'><span
+class=3DGramE><span style=3D'font-size:13.5pt;line-height:107%;font-family:=
+Consolas;
+mso-bidi-font-family:"Segoe UI";color:white'>echo</span></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'> $HOME<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<h3 style=3D'background:white'><span style=3D'font-family:"Segoe UI",sans-s=
+erif;
+color:#19191A'>Bash Script Arguments<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'>Arguments can be added to a bash script after the <span
+class=3DSpellE>the</span> script’s name. Once provided they can be accessed=
+ by
+using&nbsp;</span><code><span style=3D'font-size:10.0pt;font-family:Consola=
+s;
+color:#15141F;background:#EAE9ED'>$(position in the argument list)</span></=
+code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+. For
+example, the first argument can be accessed with&nbsp;</span><code><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>$1</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+, the
+second with&nbsp;</span><code><span style=3D'font-size:10.0pt;font-family:C=
+onsolas;
+color:#15141F;background:#EAE9ED'>$2</span></code><span style=3D'font-size:=
+13.5pt;
+font-family:"Segoe UI",sans-serif;color:#484848'>, the third with&nbsp;</sp=
+an><code><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>$3</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+, etc.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span class=3DGramE><span style=3D'font-size:13.5pt;line-height:10=
+7%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'>#!/</span=
+></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'>bin/bash <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span style=3D'font-size:13.5pt;line-height:107%;font-family:Conso=
+las;
+mso-bidi-font-family:"Segoe UI";color:white'># <span class=3DGramE>For</spa=
+n> a
+script invoked by <span class=3DSpellE>saycolors</span> red green blue <o:p=
+></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span style=3D'font-size:13.5pt;line-height:107%;font-family:Conso=
+las;
+mso-bidi-font-family:"Segoe UI";color:white'># echoes red echo $1 <o:p></o:=
+p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span style=3D'font-size:13.5pt;line-height:107%;font-family:Conso=
+las;
+mso-bidi-font-family:"Segoe UI";color:white'># echoes green <o:p></o:p></sp=
+an></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span class=3DGramE><span style=3D'font-size:13.5pt;line-height:10=
+7%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'>echo</spa=
+n></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'> $2 <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span style=3D'font-size:13.5pt;line-height:107%;font-family:Conso=
+las;
+mso-bidi-font-family:"Segoe UI";color:white'># echoes blue <o:p></o:p></spa=
+n></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span class=3DGramE><span style=3D'font-size:13.5pt;line-height:10=
+7%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'>echo</spa=
+n></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'> $3<o:p></o:p></span></p>
+
+<h3 style=3D'background:white'><span style=3D'font-family:"Segoe UI",sans-s=
+erif;
+color:#19191A'>Bash script variables<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'>Variables in a bash script can be set using the&nbsp;</span>=
+<code><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>=3D</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;sign,
+and accessed using&nbsp;</span><code><span style=3D'font-size:10.0pt;font-f=
+amily:
+Consolas;color:#15141F;background:#EAE9ED'>$</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span class=3DGramE><span style=3D'font-size:13.5pt;line-height:10=
+7%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'>greeting<=
+/span></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'>=3D&quot;Hello&quot; <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span class=3DGramE><span style=3D'font-size:13.5pt;line-height:10=
+7%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'>echo</spa=
+n></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'> $greeting<o:p></o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin-top:0cm;background:white=
+'><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+<o:p>&nbsp;</o:p></span></p>
+
+<h3 style=3D'background:white'><span class=3DGramE><span style=3D'font-fami=
+ly:"Segoe UI",sans-serif;
+color:#19191A'>bash</span></span><span style=3D'font-family:"Segoe UI",sans=
+-serif;
+color:#19191A'> script&nbsp;</span><code><span style=3D'font-size:10.0pt;
+color:#19191A'>read</span></code><span style=3D'font-family:"Segoe UI",sans=
+-serif;
+color:#19191A'>&nbsp;keyword<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin-top:0cm;background:white=
+'><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+The&nbsp;</span><code><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>read</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;command
+can be used to prompt the user for input. It will continue to read user inp=
+ut
+until the Enter key is pressed.<o:p></o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'>Some prompt text can also be specified using&nbsp;</span><co=
+de><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>-p</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;with
+the&nbsp;</span><code><span style=3D'font-size:10.0pt;font-family:Consolas;
+color:#15141F;background:#EAE9ED'>read</span></code><span style=3D'font-siz=
+e:
+13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>&nbsp;command.<o:p>=
+</o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span class=3DGramE><span style=3D'font-size:13.5pt;line-height:10=
+7%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'>#!bin</sp=
+an></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'>/bash <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span class=3DGramE><span style=3D'font-size:13.5pt;line-height:10=
+7%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'>echo</spa=
+n></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'> &quot;Press Enter to continue&quot; <o:p></o:p></s=
+pan></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span class=3DGramE><span style=3D'font-size:13.5pt;line-height:10=
+7%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'>read</spa=
+n></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span class=3DGramE><span style=3D'font-size:13.5pt;line-height:10=
+7%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'>read</spa=
+n></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'> -p &quot;Enter your name: &quot; name<o:p></o:p></=
+span></p>
+
+<h3 style=3D'background:white'><span style=3D'font-family:"Segoe UI",sans-s=
+erif;
+color:#19191A'>Bash Shebang<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'>Bash script files start with&nbsp;</span><code><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>#<span
+class=3DGramE>!/</span>bin/bash</span></code><span style=3D'font-size:13.5p=
+t;
+font-family:"Segoe UI",sans-serif;color:#484848'>. This special line tells =
+the
+computer to use&nbsp;<em><span style=3D'font-family:"Segoe UI",sans-serif'>=
+bash</span></em>&nbsp;as
+the <span class=3DSpellE>intepreter</span>.<o:p></o:p></span></p>
+
+<h3 style=3D'background:white'><span style=3D'font-family:"Segoe UI",sans-s=
+erif;
+color:#19191A'>Bash Aliases<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'>Aliases can be created using the keyword&nbsp;</span><code><=
+span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>alias</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+. They
+are used to create shorter commands for calling bash scripts. They can also=
+ be
+used to call bash scripts with certain arguments.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'background:#0A0E1D'><span style=3D'font-size:=
+13.5pt;
+line-height:107%;font-family:Consolas;mso-bidi-font-family:"Segoe UI";
+color:white'># For example, to create an alias that invokes the <span
+class=3DSpellE>saycolor</span> # script with the argument &quot;green&quot;=
+, the
+following syntax is used: alias <span class=3DSpellE>saygreen</span>=3D'./s=
+aycolors.sh
+&quot;green&quot;'<o:p></o:p></span></p>
+
+<h3 style=3D'background:white'><span style=3D'font-family:"Segoe UI",sans-s=
+erif;
+color:#19191A'>Bash Scripts<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span class=3DSpellE><span style=3D'font-size:13.5pt;font=
+-family:
+"Segoe UI",sans-serif;color:#484848'>Reusuable</span></span><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+ sets
+of&nbsp;<em><span style=3D'font-family:"Segoe UI",sans-serif'>bash</span></=
+em>&nbsp;terminal
+commands can be created using&nbsp;<em><span style=3D'font-family:"Segoe UI=
+",sans-serif'>bash
+scripts</span></em>.&nbsp;<em><span style=3D'font-family:"Segoe UI",sans-se=
+rif'>Bash
+scripts</span></em>&nbsp;can run any command that can be run in a terminal.=
+<o:p></o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'><o:p>&nbsp;</o:p></span></p>
+
+<h3 style=3D'background:white'><span style=3D'font-family:"Segoe UI",sans-s=
+erif;
+color:#19191A'>Bash script comparison operators<o:p></o:p></span></h3>
+
+<p class=3Dp1qg33igem5pagn4kpmirjw style=3D'margin:0cm;margin-bottom:.0001p=
+t;
+background:white'><span style=3D'font-size:13.5pt;font-family:"Segoe UI",sa=
+ns-serif;
+color:#484848'>In bash scripting, strings are compared using the&nbsp;</spa=
+n><code><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>=3D=3D</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;(Equal)
+<span class=3DGramE>and&nbsp;<code><span style=3D'font-size:10.0pt;font-fam=
+ily:
+Consolas;color:#15141F;background:#EAE9ED'>!</span></code></span></span><co=
+de><span
+style=3D'font-size:10.0pt;font-family:Consolas;color:#15141F;background:#EA=
+E9ED'>=3D</span></code><span
+style=3D'font-size:13.5pt;font-family:"Segoe UI",sans-serif;color:#484848'>=
+&nbsp;(Not
+equal) operators.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span class=3DGramE><span style=3D'font-size:13.5pt;line-height:10=
+7%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'>#!bin</sp=
+an></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'>/bash <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span style=3D'font-size:13.5pt;line-height:107%;font-family:Conso=
+las;
+mso-bidi-font-family:"Segoe UI";color:white'>word1=3D&quot;Hello&quot;<o:p>=
+</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span style=3D'font-size:13.5pt;line-height:107%;font-family:Conso=
+las;
+mso-bidi-font-family:"Segoe UI";color:white'>word2=3D&quot;Hello&quot; <o:p=
+></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span style=3D'font-size:13.5pt;line-height:107%;font-family:Conso=
+las;
+mso-bidi-font-family:"Segoe UI";color:white'>word3=3D&quot;hello&quot;<o:p>=
+</o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span class=3DGramE><span style=3D'font-size:13.5pt;line-height:10=
+7%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'>if</span>=
+</span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'> [ $word1 =3D=3D $word2 ] <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span class=3DGramE><span style=3D'font-size:13.5pt;line-height:10=
+7%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'>then</spa=
+n></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'> <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span style=3D'font-size:13.5pt;line-height:107%;font-family:Conso=
+las;
+mso-bidi-font-family:"Segoe UI";color:white'><span style=3D'mso-spacerun:ye=
+s'>  
+</span><span class=3DGramE>echo</span> &quot;Strings are equal&quot; <o:p><=
+/o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span class=3DGramE><span style=3D'font-size:13.5pt;line-height:10=
+7%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'>fi</span>=
+</span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'> <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span class=3DGramE><span style=3D'font-size:13.5pt;line-height:10=
+7%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'>if</span>=
+</span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'> [ $word1 !=3D $word3 ] <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span class=3DGramE><span style=3D'font-size:13.5pt;line-height:10=
+7%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'>then</spa=
+n></span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'> <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span style=3D'font-size:13.5pt;line-height:107%;font-family:Conso=
+las;
+mso-bidi-font-family:"Segoe UI";color:white'><span style=3D'mso-spacerun:ye=
+s'>  
+</span><span class=3DGramE>echo</span> &quot;Strings are not equal&quot; <o=
+:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;backg=
+round:
+#0A0E1D'><span class=3DGramE><span style=3D'font-size:13.5pt;line-height:10=
+7%;
+font-family:Consolas;mso-bidi-font-family:"Segoe UI";color:white'>fi</span>=
+</span><span
+style=3D'font-size:13.5pt;line-height:107%;font-family:Consolas;mso-bidi-fo=
+nt-family:
+"Segoe UI";color:white'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'text-align:justify'><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01D62EA0.09D509D0
+Content-Location: file:///C:/4A77B225/LearncommandLine_files/themedata.thmx
+Content-Transfer-Encoding: base64
+Content-Type: application/vnd.ms-officetheme
+
+UEsDBBQABgAIAAAAIQDp3g+//wAAABwCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbKyRy07DMBBF
+90j8g+UtSpyyQAgl6YLHjseifMDImSQWydiyp1X790zSVEKoIBZsLNkz954743K9Hwe1w5icp0qv
+8kIrJOsbR12l3zdP2a1WiYEaGDxhpQ+Y9Lq+vCg3h4BJiZpSpXvmcGdMsj2OkHIfkKTS+jgCyzV2
+JoD9gA7NdVHcGOuJkTjjyUPX5QO2sB1YPe7l+Zgk4pC0uj82TqxKQwiDs8CS1Oyo+UbJFkIuyrkn
+9S6kK4mhzVnCVPkZsOheZTXRNajeIPILjBLDsAyJX89nIBkt5r87nons29ZZbLzdjrKOfDZezE7B
+/xRg9T/oE9PMf1t/AgAA//8DAFBLAwQUAAYACAAAACEApdan58AAAAA2AQAACwAAAF9yZWxzLy5y
+ZWxzhI/PasMwDIfvhb2D0X1R0sMYJXYvpZBDL6N9AOEof2giG9sb69tPxwYKuwiEpO/3qT3+rov5
+4ZTnIBaaqgbD4kM/y2jhdj2/f4LJhaSnJQhbeHCGo3vbtV+8UNGjPM0xG6VItjCVEg+I2U+8Uq5C
+ZNHJENJKRds0YiR/p5FxX9cfmJ4Z4DZM0/UWUtc3YK6PqMn/s8MwzJ5PwX+vLOVFBG43lExp5GKh
+qC/jU72QqGWq1B7Qtbj51v0BAAD//wMAUEsDBBQABgAIAAAAIQBreZYWgwAAAIoAAAAcAAAAdGhl
+bWUvdGhlbWUvdGhlbWVNYW5hZ2VyLnhtbAzMTQrDIBBA4X2hd5DZN2O7KEVissuuu/YAQ5waQceg
+0p/b1+XjgzfO3xTVm0sNWSycBw2KZc0uiLfwfCynG6jaSBzFLGzhxxXm6XgYybSNE99JyHNRfSPV
+kIWttd0g1rUr1SHvLN1euSRqPYtHV+jT9yniResrJgoCOP0BAAD//wMAUEsDBBQABgAIAAAAIQCq
+UiXfxgYAAIsaAAAWAAAAdGhlbWUvdGhlbWUvdGhlbWUxLnhtbOxZXYvbRhR9L/Q/CL07/pL8scQb
+bNnOttlNQuyk5HFsj63JjjRGM96NCYGSPBYKpWnpQwN960NpG0igL+mv2TalTSF/oXdGtjxjj7ub
+JYWlZA2LNDr3zpl7r84dSZev3I+oc4QTTljccIuXCq6D4yEbkXjScG/3u7ma63CB4hGiLMYNd465
+e2X3ww8uox0R4gg7YB/zHdRwQyGmO/k8H8Iw4pfYFMdwbcySCAk4TSb5UYKOwW9E86VCoZKPEIld
+J0YRuL0xHpMhdvrSpbu7dN6hcBoLLgeGNOlJ19iwUNjRYVEi+JwHNHGOEG24MM+IHffxfeE6FHEB
+FxpuQf25+d3LebSzMKJii61m11V/C7uFweiwpOZMJoNsUs/zvUoz868AVGziOtVOpVPJ/CkAGg5h
+pSkX3affqrfa/gKrgdJDi+92tV0uGnjNf3mDc9OXPwOvQKl/bwPf7QYQRQOvQCne38B7XrUUeAZe
+gVJ8ZQNfLTTbXtXAK1BISXy4gS74lXKwXG0GGTO6Z4XXfa9bLS2cr1BQDVl1ySnGLBbbai1C91jS
+BYAEUiRI7Ij5FI/REKo4QJQMEuLsk0kIhTdFMeMwXCgVuoUy/Jc/Tx2piKAdjDRryQuY8I0hycfh
+w4RMRcP9GLy6GuTNyx/fvHzunDx6cfLol5PHj08e/Zw6Mqz2UDzRrV5//8XfTz91/nr+3esnX9nx
+XMf//tNnv/36pR0IK12F4NXXz/548ezVN5//+cMTC7yZoIEO75MIc+c6PnZusQgWpkJgMseD5O0s
++iEiukUznnAUIzmLxX9HhAb6+hxRZMG1sBnBOwlIjA14dXbPINwLk5kgFo/XwsgAHjBGWyyxRuGa
+nEsLc38WT+yTJzMddwuhI9vcAYqN/HZmU9BWYnMZhNigeZOiWKAJjrFw5DV2iLFldXcJMeJ6QIYJ
+42wsnLvEaSFiDUmfDIxqWhntkQjyMrcRhHwbsTm447QYta26jY9MJNwViFrI9zE1wngVzQSKbC77
+KKJ6wPeRCG0ke/NkqOM6XECmJ5gypzPCnNtsbiSwXi3p10Be7Gk/oPPIRCaCHNp87iPGdGSbHQYh
+iqY2bI/EoY79iB9CiSLnJhM2+AEz7xB5DnlA8dZ03yHYSPfpanAblFWntCoQeWWWWHJ5FTOjfntz
+OkZYSQ0Iv6HnEYlPFfc1Wff/W1kHIX317VPLqi6qoDcTYr2j9tZkfBtuXbwDlozIxdfuNprFNzHc
+LpsN7L10v5du938v3dvu53cv2CuNBvmWW8V0q6427tHWffuYUNoTc4r3udq6c+hMoy4MSjv1zIqz
+57hpCIfyToYJDNwkQcrGSZj4hIiwF6Ip7O+LrnQy4QvXE+5MGYdtvxq2+pZ4OosO2Ch9XC0W5aNp
+Kh4cidV4wc/G4VFDpOhKdfUIlrlXbCfqUXlJQNq+DQltMpNE2UKiuhyUQVIP5hA0Cwm1snfCom5h
+UZPul6naYAHUsqzA1smBDVfD9T0wASN4okIUj2Se0lQvs6uS+S4zvS2YRgXAPmJZAatM1yXXrcuT
+q0tL7QyZNkho5WaSUJFRPYyHaIQX1SlHz0LjbXNdX6XUoCdDoeaD0lrRqNb+jcV5cw1269pAY10p
+aOwcN9xK2YeSGaJpwx3DYz8cRlOoHS63vIhO4N3ZUCTpDX8eZZkmXLQRD9OAK9FJ1SAiAicOJVHD
+lcvP0kBjpSGKW7EEgnBhydVBVi4aOUi6mWQ8HuOh0NOujchIp6eg8KlWWK8q8/ODpSWbQbp74ejY
+GdBZcgtBifnVogzgiHB4+1NMozki8DozE7JV/a01poXs6u8TVQ2l44hOQ7ToKLqYp3Al5RkddZbF
+QDtbrBkCqoVk0QgHE9lg9aAa3TTrGimHrV33dCMZOU00Vz3TUBXZNe0qZsywbANrsTxfk9dYLUMM
+mqZ3+FS61yW3vtS6tX1C1iUg4Fn8LF33DA1Bo7aazKAmGW/KsNTsxajZO5YLPIXaWZqEpvqVpdu1
+uGU9wjodDJ6r84PdetXC0Hi5r1SRVt899E8TbHAPxKMNL4FnVHCVSvjwkCDYEPXUniSVDbhF7ovF
+rQFHziwhDfdBwW96QckPcoWa38l5Za+Qq/nNcq7p++Vixy8W2q3SQ2gsIoyKfvrNpQuvouh88eVF
+jW98fYmWb9suDVmUZ+rrSl4RV19fiqXtX18cAqLzoFLq1sv1ViVXLze7Oa/dquXqQaWVa1eCarvb
+DvxavfvQdY4U2GuWA6/SqeUqxSDIeZWCpF+r56peqdT0qs1ax2s+XGxjYOWpfCxiAeFVvHb/AQAA
+//8DAFBLAwQUAAYACAAAACEADdGQn7YAAAAbAQAAJwAAAHRoZW1lL3RoZW1lL19yZWxzL3RoZW1l
+TWFuYWdlci54bWwucmVsc4SPTQrCMBSE94J3CG9v07oQkSbdiNCt1AOE5DUNNj8kUeztDa4sCC6H
+Yb6ZabuXnckTYzLeMWiqGgg66ZVxmsFtuOyOQFIWTonZO2SwYIKObzftFWeRSyhNJiRSKC4xmHIO
+J0qTnNCKVPmArjijj1bkIqOmQci70Ej3dX2g8ZsBfMUkvWIQe9UAGZZQmv+z/TgaiWcvHxZd/lFB
+c9mFBSiixszgI5uqTATKW7q6xN8AAAD//wMAUEsBAi0AFAAGAAgAAAAhAOneD7//AAAAHAIAABMA
+AAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEApdan58AA
+AAA2AQAACwAAAAAAAAAAAAAAAAAwAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAa3mWFoMA
+AACKAAAAHAAAAAAAAAAAAAAAAAAZAgAAdGhlbWUvdGhlbWUvdGhlbWVNYW5hZ2VyLnhtbFBLAQIt
+ABQABgAIAAAAIQCqUiXfxgYAAIsaAAAWAAAAAAAAAAAAAAAAANYCAAB0aGVtZS90aGVtZS90aGVt
+ZTEueG1sUEsBAi0AFAAGAAgAAAAhAA3RkJ+2AAAAGwEAACcAAAAAAAAAAAAAAAAA0AkAAHRoZW1l
+L3RoZW1lL19yZWxzL3RoZW1lTWFuYWdlci54bWwucmVsc1BLBQYAAAAABQAFAF0BAADLCgAAAAA=
+
+------=_NextPart_01D62EA0.09D509D0
+Content-Location: file:///C:/4A77B225/LearncommandLine_files/colorschememapping.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"yes"?>
+<a:clrMap xmlns:a=3D"http://schemas.openxmlformats.org/drawingml/2006/main"=
+ bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
+2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
+ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
+------=_NextPart_01D62EA0.09D509D0
+Content-Location: file:///C:/4A77B225/LearncommandLine_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../LearncommandLine.htm"/>
+ <o:File HRef=3D"themedata.thmx"/>
+ <o:File HRef=3D"colorschememapping.xml"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D62EA0.09D509D0--
